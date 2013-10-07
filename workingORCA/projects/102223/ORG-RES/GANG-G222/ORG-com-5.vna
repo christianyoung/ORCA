@@ -1,0 +1,19 @@
+*Node data
+ID	CORE	COVERS,IR_NO,ARREST_ID,CB_NO,LAST_NME,FIRST_NME,MIDDLE_NME,NICKNAME,ALIAS_LAST_NME,ALIAS_FIRST_NME,BIRTH_DATE,AGE,SEX_CODE_CD,RACE_CODE_CD,ARREST_DATE,ARR_BEAT,ARR_DISTRICT,STREET_NO,X_COORDINATE,Y_COORDINATE,STREET_DIRECTION_CD,STREET_NME,CITY,STATE_CD,ZIP_CD,INV_ADDRESSES_ID,RD_NO,O_STREET_NO,O_STREET_DIRECTION_CD,O_STREET_NME,O_CITY,O_STATE_CD,O_ZIP_CD,O_DISTRICT,STATUTE,STAT_DESCR,GANG_NAME,FACTION_NAME+982023(0.54)	YES-CORE	NO	982023,704019, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++201136(1.0)	YES-CORE	NO	201136,101913, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),27-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G222,
++858160(1.0)	YES-CORE	NO	858160,482750, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),20-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G222,
++832226(1.0)	YES-CORE	NO	832226,288422, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),24-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++731319(0.54)	YES-CORE	NO	731319,550014, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++146757(1.0)	YES-CORE	NO	146757,209987, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G222,
+*Tie data
+v1	v2
++982023(0.54)	+858160(1.0)
++858160(1.0)	+982023(0.54)
++201136(1.0)	+146757(1.0)
++146757(1.0)	+201136(1.0)
++858160(1.0)	+731319(0.54)
++731319(0.54)	+858160(1.0)
++858160(1.0)	+832226(1.0)
++832226(1.0)	+858160(1.0)
++858160(1.0)	+146757(1.0)
++146757(1.0)	+858160(1.0)

@@ -1,0 +1,13 @@
+GANG-G772-SUB-1 is strongly connected (3+ links) to:
+,,GANG-G772-SUB-2  (5 connections): ,605001,831493,612858,292600,344842,
+
+GANG-G772-SUB-2 is strongly connected (3+ links) to:
+,,GANG-G772-SUB-1  (5 connections): ,612858,292600,344842,605001,831493,
+
+GANG-G772-SUB-3 is strongly connected (3+ links) to:
+,,GANG-G772-SUB-OTHERS  (4 connections): ,794587,142104,642259,682047,
+
+GANG-G772-SUB-OTHERS is strongly connected (3+ links) to:
+,,GANG-G772-SUB-3  (4 connections): ,682047,794587,142104,642259,
+,,GANG-G784-SUB-3  (8 connections): ,933835,964397,698071,89613,93628,411308,100952,95691,
+

@@ -1,0 +1,20 @@
+GANG-G784-SUB-1 is strongly connected (3+ links) to:
+,,GANG-G228-SUB-3  (3 connections): ,808979,119894,92914,
+,,GANG-G784-SUB-2  (7 connections): ,705378,796956,92914,595123,763423,102493,807077,
+
+GANG-G784-SUB-2 is strongly connected (3+ links) to:
+,,GANG-G784-SUB-1  (7 connections): ,92914,595123,763423,102493,807077,705378,796956,
+,,GANG-G784-SUB-5  (3 connections): ,387372,796956,662402,
+
+GANG-G784-SUB-3 is strongly connected (3+ links) to:
+,,GANG-G772-SUB-OTHERS  (8 connections): ,100952,95691,933835,964397,698071,89613,93628,411308,
+
+GANG-G784-SUB-4 is strongly connected (3+ links) to:
+,,None (relatively isolated - all other groups are connected with less than 3 links)
+
+GANG-G784-SUB-5 is strongly connected (3+ links) to:
+,,GANG-G784-SUB-2  (3 connections): ,796956,662402,387372,
+
+GANG-G784-SUB-OTHERS is strongly connected (3+ links) to:
+,,GANG-G224-SUB-OTHERS  (3 connections): ,987033,710298,574332,
+

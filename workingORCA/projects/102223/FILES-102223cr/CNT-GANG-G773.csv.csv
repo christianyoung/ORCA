@@ -1,0 +1,3 @@
+signals,pos,tot,sumPos,sumTot,signals,sumMean,upper,lower,sumSd,sumSe
+1,0,2,3,5,1,0.6,1,0.170585514916,0.489897948557,0.219089023002
+2,3,3,3,3,2,1.0,1.0,1.0,0.0,0.0

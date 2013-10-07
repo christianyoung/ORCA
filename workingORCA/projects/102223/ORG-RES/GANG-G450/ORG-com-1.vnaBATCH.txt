@@ -1,0 +1,8 @@
+Loadvna C:/Users/x49962/Desktop/ORCAv1.2SourceNoCPDUntouched/ORCAv1.2SourceNoCPD/projects\102223\ORG-RES\GANG-G450\ORG-com-1.vna
+COLORNODESBYATTR CORE
+COLORNODESBYATTR COVERS
+Runlayout
+Runlayout
+Runlayout
+Savejpg C:/Users/x49962/Desktop/ORCAv1.2SourceNoCPDUntouched/ORCAv1.2SourceNoCPD/projects\102223\ORG-RES\GANG-G450\ORG-com-1.vna.jpg
+Close

@@ -1,0 +1,17 @@
+DEGREE OF MEMBERSHIP:
+Certain (admitted), 42
+Over 0.9 but under 1.0, 0
+Over 0.75 but under 0.9, 0
+Over 0.5 but under 0.75, 7
+Over 0.25 but under 0.5, 0
+Under 0.25:, 0
+----
+TOTAL, 49
+
+
+=====================
+
+
+NETWORK SUB-GROUP STRUCTURE EVALUATION:
+Network modularity,0.640308641975
+(organization has VERY WELL-DEFINED subgroup structure)

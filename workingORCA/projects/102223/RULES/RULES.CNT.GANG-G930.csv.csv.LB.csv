@@ -1,0 +1,5 @@
+f,gnode,inbound,deltaT,signals,outbound,rawRatio,totalSupportInstances,positiveSupportInstances,stdDev,stdErr
+notInGang,taut,[1.0:1.0],1,1,[0.0666111168969:1.0],0,0,0,0,0
+notInGang,taut,[1.0:1.0],1,3,[0.449384541128:1.0],0,0,0,0,0
+notInGang,taut,[1.0:1.0],1,2,[0.449384541128:1.0],0,0,0,0,0
+notInGang,taut,[1.0:1.0],1,4,[0.449384541128:1.0],0,0,0,0,0

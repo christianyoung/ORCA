@@ -1,0 +1,42 @@
+*Node data
+ID	CORE	COVERS,IR_NO,ARREST_ID,CB_NO,LAST_NME,FIRST_NME,MIDDLE_NME,NICKNAME,ALIAS_LAST_NME,ALIAS_FIRST_NME,BIRTH_DATE,AGE,SEX_CODE_CD,RACE_CODE_CD,ARREST_DATE,ARR_BEAT,ARR_DISTRICT,STREET_NO,X_COORDINATE,Y_COORDINATE,STREET_DIRECTION_CD,STREET_NME,CITY,STATE_CD,ZIP_CD,INV_ADDRESSES_ID,RD_NO,O_STREET_NO,O_STREET_DIRECTION_CD,O_STREET_NME,O_CITY,O_STATE_CD,O_ZIP_CD,O_DISTRICT,STATUTE,STAT_DESCR,GANG_NAME,FACTION_NAME477536(1.0)	NO	NO	477536,522935, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+++904378(1.0)	YES-CORE	YES-COV	904378,190595, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+++991742(1.0)	YES-CORE	YES-COV	991742,379183, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+++163842(1.0)	YES-CORE	YES-COV	163842,824929, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),26-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+++129815(1.0)	YES-CORE	YES-COV	129815,215434, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),18-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G579,G196
+771599(1.0)	NO	NO	771599,289536, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+130411(1.0)	NO	NO	130411,788175, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+432714(1.0)	NO	NO	432714,358252, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+++865473(1.0)	YES-CORE	YES-COV	865473,503506, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+*Tie data
+v1	v2
+477536(1.0)	771599(1.0)
+771599(1.0)	477536(1.0)
+477536(1.0)	++865473(1.0)
+++865473(1.0)	477536(1.0)
+++904378(1.0)	++163842(1.0)
+++163842(1.0)	++904378(1.0)
+++904378(1.0)	++129815(1.0)
+++129815(1.0)	++904378(1.0)
+++904378(1.0)	432714(1.0)
+432714(1.0)	++904378(1.0)
+++904378(1.0)	++865473(1.0)
+++865473(1.0)	++904378(1.0)
+++904378(1.0)	++991742(1.0)
+++991742(1.0)	++904378(1.0)
+++991742(1.0)	++163842(1.0)
+++163842(1.0)	++991742(1.0)
+++991742(1.0)	++129815(1.0)
+++129815(1.0)	++991742(1.0)
+++991742(1.0)	++865473(1.0)
+++865473(1.0)	++991742(1.0)
+++163842(1.0)	++129815(1.0)
+++129815(1.0)	++163842(1.0)
+++163842(1.0)	++865473(1.0)
+++865473(1.0)	++163842(1.0)
+++129815(1.0)	++865473(1.0)
+++865473(1.0)	++129815(1.0)
+++129815(1.0)	130411(1.0)
+130411(1.0)	++129815(1.0)
+771599(1.0)	++865473(1.0)
+++865473(1.0)	771599(1.0)

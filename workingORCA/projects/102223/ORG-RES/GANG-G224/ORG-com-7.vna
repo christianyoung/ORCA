@@ -1,0 +1,36 @@
+*Node data
+ID	CORE	COVERS,IR_NO,ARREST_ID,CB_NO,LAST_NME,FIRST_NME,MIDDLE_NME,NICKNAME,ALIAS_LAST_NME,ALIAS_FIRST_NME,BIRTH_DATE,AGE,SEX_CODE_CD,RACE_CODE_CD,ARREST_DATE,ARR_BEAT,ARR_DISTRICT,STREET_NO,X_COORDINATE,Y_COORDINATE,STREET_DIRECTION_CD,STREET_NME,CITY,STATE_CD,ZIP_CD,INV_ADDRESSES_ID,RD_NO,O_STREET_NO,O_STREET_DIRECTION_CD,O_STREET_NME,O_CITY,O_STATE_CD,O_ZIP_CD,O_DISTRICT,STATUTE,STAT_DESCR,GANG_NAME,FACTION_NAME+693801(0.77)	YES-CORE	NO	693801,953561, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++201055(1.0)	YES-CORE	NO	201055,351444, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+914880(1.0)	NO	NO	914880,622283, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++300930(1.0)	YES-CORE	NO	300930,431168, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),3-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G363,
++116920(0.77)	YES-CORE	NO	116920,701369, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++529396(1.0)	YES-CORE	NO	529396,281775, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
++814912(1.0)	YES-CORE	NO	814912,47914, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),15-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++792761(1.0)	YES-CORE	NO	792761,688378, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),23-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
++590981(1.0)	YES-CORE	NO	590981,246536, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+*Tie data
+v1	v2
++693801(0.77)	+300930(1.0)
++300930(1.0)	+693801(0.77)
++693801(0.77)	+814912(1.0)
++814912(1.0)	+693801(0.77)
++201055(1.0)	+300930(1.0)
++300930(1.0)	+201055(1.0)
++201055(1.0)	+792761(1.0)
++792761(1.0)	+201055(1.0)
++201055(1.0)	+529396(1.0)
++529396(1.0)	+201055(1.0)
++201055(1.0)	+590981(1.0)
++590981(1.0)	+201055(1.0)
+914880(1.0)	+529396(1.0)
++529396(1.0)	914880(1.0)
++300930(1.0)	+116920(0.77)
++116920(0.77)	+300930(1.0)
++300930(1.0)	+814912(1.0)
++814912(1.0)	+300930(1.0)
++300930(1.0)	+590981(1.0)
++590981(1.0)	+300930(1.0)
++116920(0.77)	+814912(1.0)
++814912(1.0)	+116920(0.77)
++529396(1.0)	+792761(1.0)
++792761(1.0)	+529396(1.0)
