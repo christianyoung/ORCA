@@ -1,0 +1,13 @@
+GANG-G450-SUB-1 is strongly connected (3+ links) to:
+,,GANG-G450-SUB-OTHERS  (5 connections): ,427721,751116,664011,957539,376427,
+
+GANG-G450-SUB-2 is strongly connected (3+ links) to:
+,,GANG-G532-SUB-2  (3 connections): ,710925,279335,606641,
+,,GANG-G224-SUB-1  (4 connections): ,202446,606641,44815,148506,
+
+GANG-G450-SUB-3 is strongly connected (3+ links) to:
+,,None (relatively isolated - all other groups are connected with less than 3 links)
+
+GANG-G450-SUB-OTHERS is strongly connected (3+ links) to:
+,,GANG-G450-SUB-1  (5 connections): ,376427,427721,751116,664011,957539,
+

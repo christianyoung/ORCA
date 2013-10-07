@@ -1,0 +1,50 @@
+*Node data
+ID	CORE	COVERS,IR_NO,ARREST_ID,CB_NO,LAST_NME,FIRST_NME,MIDDLE_NME,NICKNAME,ALIAS_LAST_NME,ALIAS_FIRST_NME,BIRTH_DATE,AGE,SEX_CODE_CD,RACE_CODE_CD,ARREST_DATE,ARR_BEAT,ARR_DISTRICT,STREET_NO,X_COORDINATE,Y_COORDINATE,STREET_DIRECTION_CD,STREET_NME,CITY,STATE_CD,ZIP_CD,INV_ADDRESSES_ID,RD_NO,O_STREET_NO,O_STREET_DIRECTION_CD,O_STREET_NME,O_CITY,O_STATE_CD,O_ZIP_CD,O_DISTRICT,STATUTE,STAT_DESCR,GANG_NAME,FACTION_NAME+912658(1.0)	YES-CORE	NO	912658,964456, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),9-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
++952933(1.0)	YES-CORE	NO	952933,978774, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G494
++848030(1.0)	YES-CORE	NO	848030,970832, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G494
++756021(1.0)	YES-CORE	NO	756021,737834, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
++48550(1.0)	YES-CORE	NO	48550,560067, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
++312516(1.0)	YES-CORE	NO	312516,627304, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
++767262(1.0)	YES-CORE	NO	767262,353015, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G494
++172564(1.0)	YES-CORE	NO	172564,835901, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),24-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+484064(1.0)	NO	NO	484064,588944, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
++366674(1.0)	YES-CORE	NO	366674,613954, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
++376601(1.0)	YES-CORE	NO	376601,382772, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
++435135(1.0)	YES-CORE	NO	435135,50703, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
++36260(1.0)	YES-CORE	NO	36260,397244, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+*Tie data
+v1	v2
++48550(1.0)	+952933(1.0)
++952933(1.0)	+48550(1.0)
++48550(1.0)	+435135(1.0)
++435135(1.0)	+48550(1.0)
++912658(1.0)	+756021(1.0)
++756021(1.0)	+912658(1.0)
++912658(1.0)	+366674(1.0)
++366674(1.0)	+912658(1.0)
++912658(1.0)	+36260(1.0)
++36260(1.0)	+912658(1.0)
+484064(1.0)	+767262(1.0)
++767262(1.0)	484064(1.0)
++952933(1.0)	+767262(1.0)
++767262(1.0)	+952933(1.0)
++952933(1.0)	+848030(1.0)
++848030(1.0)	+952933(1.0)
++952933(1.0)	+435135(1.0)
++435135(1.0)	+952933(1.0)
++848030(1.0)	+767262(1.0)
++767262(1.0)	+848030(1.0)
++312516(1.0)	+435135(1.0)
++435135(1.0)	+312516(1.0)
++312516(1.0)	+36260(1.0)
++36260(1.0)	+312516(1.0)
++172564(1.0)	+376601(1.0)
++376601(1.0)	+172564(1.0)
++172564(1.0)	+767262(1.0)
++767262(1.0)	+172564(1.0)
++767262(1.0)	+376601(1.0)
++376601(1.0)	+767262(1.0)
++366674(1.0)	+756021(1.0)
++756021(1.0)	+366674(1.0)
++435135(1.0)	+36260(1.0)
++36260(1.0)	+435135(1.0)

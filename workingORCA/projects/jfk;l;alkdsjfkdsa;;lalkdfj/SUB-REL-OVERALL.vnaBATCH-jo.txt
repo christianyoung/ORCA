@@ -1,0 +1,4 @@
+Loadvna C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\jfk;l;alkdsjfkdsa;;lalkdfj\SUB-REL-OVERALL.vna
+COLORNODESBYATTR CORE
+COLORNODESBYATTR COVERS
+Runlayout

@@ -1,0 +1,8 @@
+Loadvna C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\test\SUB-REL-OVERALL.vna
+COLORNODESBYATTR CORE
+COLORNODESBYATTR COVERS
+Runlayout
+Runlayout
+Runlayout
+Savejpg C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\test\SUB-REL-OVERALL.vna.jpg
+Close

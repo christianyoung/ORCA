@@ -197,6 +197,9 @@ def fullnet(fullpath,name,show):
         mainFrame = Frame(root)
         topFrame = Frame(mainFrame)
         bottomFrame = Frame(mainFrame)
+
+        
+            
         canvas = FigureCanvasTkAgg(fig, master=topFrame)
         canvas.show()
         canvas.get_tk_widget().pack(side=TOP, fill=BOTH, expand=1)
@@ -204,7 +207,16 @@ def fullnet(fullpath,name,show):
         fig.canvas.mpl_connect('button_press_event',af)
         canvas.mpl_connect('key_press_event', on_key_event)
         canvas.mpl_connect('button_press_event',af)
-    
+        handles =[]
+        labels = []
+        for key, value in colors.items():
+            labels.append(key)
+            random.seed(value)
+            tempcol = [random.random(),random.random(),random.random()]
+            p = plt.Rectangle((0,0),1,1,fc=tempcol)
+            handles.append(p)
+        fig.legend(handles,labels, loc = "right", prop = {'size':7}).draggable()
+                
         toolbar = NavigationToolbar2TkAgg( canvas, root )
         toolbar.update()
         canvas._tkcanvas.pack(side=TOP, fill=BOTH, expand=1)
@@ -418,7 +430,15 @@ def coremem(fullpath,name,show):
         fig.canvas.mpl_connect('button_press_event',af)
         canvas.mpl_connect('key_press_event', on_key_event)
         canvas.mpl_connect('button_press_event',af)
-    
+        handles =[]
+        labels = []
+        for key, value in colors.items():
+            labels.append(key)
+            random.seed(value)
+            tempcol = [random.random(),random.random(),random.random()]
+            p = plt.Rectangle((0,0),1,1,fc=tempcol)
+            handles.append(p)
+        fig.legend(handles,labels, loc = "right", prop = {'size':7}).draggable()
         toolbar = NavigationToolbar2TkAgg( canvas, root )
         toolbar.update()
         canvas._tkcanvas.pack(side=TOP, fill=BOTH, expand=1)
@@ -712,7 +732,7 @@ def subgroupmap(fullpath,show):
 
 
 
-#fullnet("C:/Users/x48661/Desktop/test/ORG-RES/GANG-G322/","GANG-G322",0)
+#fullnet("C:/Users/x48661/Desktop/ORCAJUNK/test/ORG-RES/GANG-G322/","GANG-G322",0)
 #coremem("C:/Users/x48661/Desktop/test/ORG-RES/GANG-G322/","GANG-G322",0)
 #subgrouprelations("C:/Users/x48661/Desktop/test/ORG-RES/GANG-G322/","GANG-G322",0)
 #subgroupmap("C:/Users/x48661/Desktop/test/ORG-RES/GANG-G422\\"+"ORG-com-2",0)

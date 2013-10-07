@@ -1,0 +1,55 @@
+*Node data
+ID	CORE	COVERS,IR_NO,ARREST_ID,CB_NO,LAST_NME,FIRST_NME,MIDDLE_NME,NICKNAME,ALIAS_LAST_NME,ALIAS_FIRST_NME,BIRTH_DATE,AGE,SEX_CODE_CD,RACE_CODE_CD,ARREST_DATE,ARR_BEAT,ARR_DISTRICT,STREET_NO,X_COORDINATE,Y_COORDINATE,STREET_DIRECTION_CD,STREET_NME,CITY,STATE_CD,ZIP_CD,INV_ADDRESSES_ID,RD_NO,O_STREET_NO,O_STREET_DIRECTION_CD,O_STREET_NME,O_CITY,O_STATE_CD,O_ZIP_CD,O_DISTRICT,STATUTE,STAT_DESCR,GANG_NAME,FACTION_NAME++964397(1.0)	YES-CORE	YES-COV	964397,830363, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G923
+++93628(1.0)	YES-CORE	YES-COV	93628,598315, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,
+793106(1.0)	NO	NO	793106,643697, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G911
+++89613(1.0)	YES-CORE	YES-COV	89613,919533, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G911
++411308(1.0)	YES-CORE	NO	411308,522446, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G911
+617919(0.72)	NO	NO	617919,999064, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),,
++933835(1.0)	YES-CORE	NO	933835,719892, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G911
+127986(1.0)	NO	NO	127986,791593, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G911
+861897(1.0)	NO	NO	861897,277834, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),23-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G911
+++698071(1.0)	YES-CORE	YES-COV	698071,383006, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,G911
+*Tie data
+v1	v2
+++964397(1.0)	++89613(1.0)
+++89613(1.0)	++964397(1.0)
+++964397(1.0)	++93628(1.0)
+++93628(1.0)	++964397(1.0)
+++964397(1.0)	793106(1.0)
+793106(1.0)	++964397(1.0)
+++964397(1.0)	+411308(1.0)
++411308(1.0)	++964397(1.0)
+++964397(1.0)	617919(0.72)
+617919(0.72)	++964397(1.0)
+++964397(1.0)	+933835(1.0)
++933835(1.0)	++964397(1.0)
+++964397(1.0)	++698071(1.0)
+++698071(1.0)	++964397(1.0)
+++93628(1.0)	++89613(1.0)
+++89613(1.0)	++93628(1.0)
+++93628(1.0)	+411308(1.0)
++411308(1.0)	++93628(1.0)
+++93628(1.0)	+933835(1.0)
++933835(1.0)	++93628(1.0)
+++93628(1.0)	861897(1.0)
+861897(1.0)	++93628(1.0)
+++93628(1.0)	++698071(1.0)
+++698071(1.0)	++93628(1.0)
+793106(1.0)	617919(0.72)
+617919(0.72)	793106(1.0)
+++89613(1.0)	+411308(1.0)
++411308(1.0)	++89613(1.0)
+++89613(1.0)	+933835(1.0)
++933835(1.0)	++89613(1.0)
+++89613(1.0)	127986(1.0)
+127986(1.0)	++89613(1.0)
+++89613(1.0)	++698071(1.0)
+++698071(1.0)	++89613(1.0)
++411308(1.0)	++698071(1.0)
+++698071(1.0)	+411308(1.0)
++933835(1.0)	++698071(1.0)
+++698071(1.0)	+933835(1.0)
+127986(1.0)	861897(1.0)
+861897(1.0)	127986(1.0)
+861897(1.0)	++698071(1.0)
+++698071(1.0)	861897(1.0)

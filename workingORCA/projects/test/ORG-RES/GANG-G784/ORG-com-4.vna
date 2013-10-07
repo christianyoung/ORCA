@@ -1,0 +1,28 @@
+*Node data
+ID	CORE	COVERS,IR_NO,ARREST_ID,CB_NO,LAST_NME,FIRST_NME,MIDDLE_NME,NICKNAME,ALIAS_LAST_NME,ALIAS_FIRST_NME,BIRTH_DATE,AGE,SEX_CODE_CD,RACE_CODE_CD,ARREST_DATE,ARR_BEAT,ARR_DISTRICT,STREET_NO,X_COORDINATE,Y_COORDINATE,STREET_DIRECTION_CD,STREET_NME,CITY,STATE_CD,ZIP_CD,INV_ADDRESSES_ID,RD_NO,O_STREET_NO,O_STREET_DIRECTION_CD,O_STREET_NME,O_CITY,O_STATE_CD,O_ZIP_CD,O_DISTRICT,STATUTE,STAT_DESCR,GANG_NAME,FACTION_NAME++795801(1.0)	YES-CORE	YES-COV	795801,622593, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,
+++466515(1.0)	YES-CORE	YES-COV	466515,427263, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,
+++751780(0.73)	YES-CORE	YES-COV	751780,542932, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+++177342(1.0)	YES-CORE	YES-COV	177342,118969, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,
+++673840(1.0)	YES-CORE	YES-COV	673840,558659, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,
+*Tie data
+v1	v2
+++751780(0.73)	++795801(1.0)
+++795801(1.0)	++751780(0.73)
+++751780(0.73)	++466515(1.0)
+++466515(1.0)	++751780(0.73)
+++751780(0.73)	++673840(1.0)
+++673840(1.0)	++751780(0.73)
+++751780(0.73)	++177342(1.0)
+++177342(1.0)	++751780(0.73)
+++795801(1.0)	++466515(1.0)
+++466515(1.0)	++795801(1.0)
+++795801(1.0)	++673840(1.0)
+++673840(1.0)	++795801(1.0)
+++795801(1.0)	++177342(1.0)
+++177342(1.0)	++795801(1.0)
+++673840(1.0)	++466515(1.0)
+++466515(1.0)	++673840(1.0)
+++673840(1.0)	++177342(1.0)
+++177342(1.0)	++673840(1.0)
+++466515(1.0)	++177342(1.0)
+++177342(1.0)	++466515(1.0)

@@ -1,0 +1,4 @@
+Loadvna C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\jfk;l;alkdsjfkdsa;;lalkdfj\ORG-RES\GANG-G110\SUBGROUP-RELATIONS-GANG-G110.vna
+COLORNODESBYATTR CORE
+COLORNODESBYATTR COVERS
+Runlayout

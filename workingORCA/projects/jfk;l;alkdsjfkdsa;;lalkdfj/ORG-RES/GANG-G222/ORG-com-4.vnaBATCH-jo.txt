@@ -1,0 +1,7 @@
+Loadvna C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\jfk;l;alkdsjfkdsa;;lalkdfj\ORG-RES\GANG-G222\ORG-com-4.vna
+COLORNODESBYATTR CORE
+COLORNODESBYATTR COVERS
+Runlayout
+Runlayout
+Runlayout
+Savejpg C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\jfk;l;alkdsjfkdsa;;lalkdfj\ORG-RES\GANG-G222\ORG-com-4.vna.jpg

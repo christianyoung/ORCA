@@ -1,0 +1,33 @@
+GANG-G532-SUB-1 is strongly connected (3+ links) to:
+,,GANG-G532-SUB-6  (21 connections): ,436973,667092,808124,518212,913269,927045,490759,376118,349933,498312,204462,631282,357309,89467,635272,541999,602850,611770,179331,489106,32921,
+,,GANG-G532-SUB-3  (6 connections): ,852186,337125,911887,762060,349933,490759,
+
+GANG-G532-SUB-2 is strongly connected (3+ links) to:
+,,GANG-G450-SUB-2  (3 connections): ,606641,710925,279335,
+,,GANG-G374  (3 connections): ,606641,710925,279335,
+,,GANG-G224-SUB-1  (3 connections): ,606641,710925,279335,
+
+GANG-G532-SUB-3 is strongly connected (3+ links) to:
+,,GANG-G532-SUB-4  (3 connections): ,598950,635890,151882,
+,,GANG-G532-SUB-1  (6 connections): ,911887,762060,349933,490759,852186,337125,
+
+GANG-G532-SUB-4 is strongly connected (3+ links) to:
+,,GANG-G532-SUB-3  (3 connections): ,635890,151882,598950,
+
+GANG-G532-SUB-5 is strongly connected (3+ links) to:
+,,None (relatively isolated - all other groups are connected with less than 3 links)
+
+GANG-G532-SUB-6 is strongly connected (3+ links) to:
+,,GANG-G532-SUB-7  (5 connections): ,901843,283373,21452,429702,913269,
+,,GANG-G532-SUB-1  (21 connections): ,927045,490759,376118,349933,498312,204462,631282,357309,89467,635272,541999,602850,611770,179331,489106,32921,436973,667092,808124,518212,913269,
+
+GANG-G532-SUB-7 is strongly connected (3+ links) to:
+,,GANG-G532-SUB-6  (5 connections): ,913269,901843,283373,21452,429702,
+
+GANG-G532-SUB-8 is strongly connected (3+ links) to:
+,,None (relatively isolated - all other groups are connected with less than 3 links)
+
+GANG-G532-SUB-OTHERS is strongly connected (3+ links) to:
+,,GANG-G228-SUB-2  (3 connections): ,338149,709538,280559,
+,,GANG-G224-SUB-1  (3 connections): ,850739,318223,283314,
+

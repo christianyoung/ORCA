@@ -1,0 +1,938 @@
+*Node data
+ID	CORE	COVERS,IR_NO,ARREST_ID,CB_NO,LAST_NME,FIRST_NME,MIDDLE_NME,NICKNAME,ALIAS_LAST_NME,ALIAS_FIRST_NME,BIRTH_DATE,AGE,SEX_CODE_CD,RACE_CODE_CD,ARREST_DATE,ARR_BEAT,ARR_DISTRICT,STREET_NO,X_COORDINATE,Y_COORDINATE,STREET_DIRECTION_CD,STREET_NME,CITY,STATE_CD,ZIP_CD,INV_ADDRESSES_ID,RD_NO,O_STREET_NO,O_STREET_DIRECTION_CD,O_STREET_NME,O_CITY,O_STATE_CD,O_ZIP_CD,O_DISTRICT,STATUTE,STAT_DESCR,GANG_NAME,FACTION_NAME953713(1.0)	NO	NO	953713,690846, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),4-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+467837(1.0)	NO	NO	467837,658527, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+504336(0.60)	NO	NO	504336,205176, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+137414(0.73)	NO	NO	137414,120564, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+968463(1.0)	NO	NO	968463,496909, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G767
+373280(1.0)	NO	NO	373280,861141, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+795801(1.0)	NO	NO	795801,622593, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G784,
+875828(0.60)	NO	NO	875828,807599, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+709538(0.60)	NO	NO	709538,652659, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+912658(1.0)	NO	NO	912658,964456, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),9-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+505776(1.0)	NO	NO	505776,699743, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+513017(1.0)	NO	NO	513017,437541, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),28-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G793
+927045(1.0)	NO	NO	927045,448401, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+784527(1.0)	NO	NO	784527,902595, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+193420(1.0)	NO	NO	193420,699696, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G614
+397735(1.0)	NO	NO	397735,253080, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),9-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G123,
+547491(1.0)	NO	NO	547491,513817, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+216816(0.60)	NO	NO	216816,260933, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+408605(1.0)	NO	NO	408605,764703, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),15-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+488106(0.73)	NO	NO	488106,627662, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+756021(1.0)	NO	NO	756021,737834, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+392536(0.60)	NO	NO	392536,224488, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+376601(1.0)	NO	NO	376601,382772, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+22666(1.0)	NO	NO	22666,478713, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G312
+631282(1.0)	NO	NO	631282,803743, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+57501(1.0)	NO	NO	57501,158767, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+485825(1.0)	NO	NO	485825,657636, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),4-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+279335(1.0)	NO	NO	279335,529957, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),2-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+632004(1.0)	NO	NO	632004,185815, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+204462(1.0)	NO	NO	204462,292645, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+124374(1.0)	NO	NO	124374,516555, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+730785(1.0)	NO	NO	730785,672533, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),18-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+720631(1.0)	NO	NO	720631,487395, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),27-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+515998(1.0)	NO	NO	515998,371972, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),3-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+762060(1.0)	NO	NO	762060,24377, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+747155(1.0)	NO	NO	747155,37187, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),26-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G793
+161547(1.0)	NO	NO	161547,592070, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+689352(1.0)	NO	NO	689352,370502, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+803869(1.0)	NO	NO	803869,439675, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+469477(1.0)	NO	NO	469477,886297, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+831945(1.0)	NO	NO	831945,546898, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+358342(1.0)	NO	NO	358342,940643, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),26-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+768501(1.0)	NO	NO	768501,385327, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+356452(0.73)	NO	NO	356452,677646, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+317238(1.0)	NO	NO	317238,731693, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G028
+622366(1.0)	NO	NO	622366,330567, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+952820(1.0)	NO	NO	952820,668309, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+743777(1.0)	NO	NO	743777,386182, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+479700(1.0)	NO	NO	479700,753958, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),18-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+341412(1.0)	NO	NO	341412,773288, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+532196(0.73)	NO	NO	532196,571806, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+73244(1.0)	NO	NO	73244,863775, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G312
+215454(1.0)	NO	NO	215454,56220, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+488139(0.60)	NO	NO	488139,882476, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),2-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+337125(1.0)	NO	NO	337125,554700, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),4-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+647792(1.0)	NO	NO	647792,442662, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+691531(1.0)	NO	NO	691531,716418, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G312
+338295(1.0)	NO	NO	338295,462398, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+521145(1.0)	NO	NO	521145,441502, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+233191(1.0)	NO	NO	233191,507416, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),2-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+429702(1.0)	NO	NO	429702,684967, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),28-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+924185(1.0)	NO	NO	924185,173532, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),24-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+451837(0.60)	NO	NO	451837,745329, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+673003(1.0)	NO	NO	673003,694022, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G743
+172564(1.0)	NO	NO	172564,835901, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),24-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+436973(1.0)	NO	NO	436973,727892, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+498312(1.0)	NO	NO	498312,208363, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+708487(1.0)	NO	NO	708487,912833, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+767262(1.0)	NO	NO	767262,353015, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G494
+349933(1.0)	NO	NO	349933,376817, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+952933(1.0)	NO	NO	952933,978774, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G494
+283373(1.0)	NO	NO	283373,829871, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),3-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G163
+962951(1.0)	NO	NO	962951,209684, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),23-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+496595(1.0)	NO	NO	496595,656018, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),5-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G312
+265402(1.0)	NO	NO	265402,247043, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),18-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+378733(1.0)	NO	NO	378733,607073, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),2-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+703927(0.73)	NO	NO	703927,689080, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+978030(1.0)	NO	NO	978030,478399, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),9-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G743
+774312(1.0)	NO	NO	774312,841311, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G425,G587
+360534(0.73)	NO	NO	360534,228989, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jul-10, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+913269(1.0)	NO	NO	913269,728463, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G028
+490759(1.0)	NO	NO	490759,947548, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),24-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+151882(1.0)	NO	NO	151882,689925, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+751780(0.60)	NO	NO	751780,542932, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+36260(1.0)	NO	NO	36260,397244, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+17560(1.0)	NO	NO	17560,409160, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+601380(1.0)	NO	NO	601380,491551, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),3-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+792602(0.73)	NO	NO	792602,135973, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),28-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+48550(1.0)	NO	NO	48550,560067, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+911887(1.0)	NO	NO	911887,303400, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+518212(1.0)	NO	NO	518212,445012, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),27-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+667092(1.0)	NO	NO	667092,196524, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),27-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+221426(1.0)	NO	NO	221426,400390, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),27-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+269119(0.60)	NO	NO	269119,133286, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+323176(0.60)	NO	NO	323176,209495, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+92308(0.60)	NO	NO	92308,727010, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+265677(0.73)	NO	NO	265677,785233, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+430712(1.0)	NO	NO	430712,453985, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),24-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+480770(1.0)	NO	NO	480770,600659, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+852186(1.0)	NO	NO	852186,329424, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),20-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+56189(0.60)	NO	NO	56189,986358, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+477536(1.0)	NO	NO	477536,522935, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+484064(1.0)	NO	NO	484064,588944, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+435135(1.0)	NO	NO	435135,50703, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+187553(1.0)	NO	NO	187553,61101, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+504069(1.0)	NO	NO	504069,374818, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+652354(1.0)	NO	NO	652354,153941, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+23081(1.0)	NO	NO	23081,470267, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+848030(1.0)	NO	NO	848030,970832, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G494
+675960(0.73)	NO	NO	675960,806503, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+21452(1.0)	NO	NO	21452,778265, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),29-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+283314(1.0)	NO	NO	283314,155160, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+60736(1.0)	NO	NO	60736,429844, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),26-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G224,
+258194(1.0)	NO	NO	258194,782001, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+620742(1.0)	NO	NO	620742,507588, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G374,
+551791(0.60)	NO	NO	551791,861023, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),25-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+151553(1.0)	NO	NO	151553,751634, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+635890(1.0)	NO	NO	635890,537642, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+611770(1.0)	NO	NO	611770,183472, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),15-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+923869(1.0)	NO	NO	923869,181838, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),3-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G312
+500863(1.0)	NO	NO	500863,359700, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+308650(1.0)	NO	NO	308650,109635, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+329743(0.60)	NO	NO	329743,485389, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),4-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+280559(1.0)	NO	NO	280559,252981, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+984711(0.60)	NO	NO	984711,286958, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+32921(1.0)	NO	NO	32921,82108, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+161682(1.0)	NO	NO	161682,847661, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),20-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+92000(1.0)	NO	NO	92000,101718, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+579343(0.60)	NO	NO	579343,147200, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+788462(1.0)	NO	NO	788462,204437, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),2-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+710925(1.0)	NO	NO	710925,293162, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+635272(0.91)	NO	NO	635272,910982, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+160101(0.73)	NO	NO	160101,597757, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+598950(1.0)	NO	NO	598950,292417, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+770347(1.0)	NO	NO	770347,491928, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+40682(1.0)	NO	NO	40682,274948, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+618289(1.0)	NO	NO	618289,271070, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),27-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G312
+469085(1.0)	NO	NO	469085,67941, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+89467(1.0)	NO	NO	89467,541672, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+333350(1.0)	NO	NO	333350,155362, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),27-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G028
+434964(1.0)	NO	NO	434964,65081, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),23-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G028
+875203(1.0)	NO	NO	875203,441967, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+293981(1.0)	NO	NO	293981,870470, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),18-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+535300(0.73)	NO	NO	535300,552885, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+471927(1.0)	NO	NO	471927,904803, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),4-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+757796(1.0)	NO	NO	757796,842635, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),9-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+322529(1.0)	NO	NO	322529,756976, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),23-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G312
+541999(1.0)	NO	NO	541999,501187, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+622156(1.0)	NO	NO	622156,957872, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),29-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+443000(1.0)	NO	NO	443000,629342, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+953731(0.60)	NO	NO	953731,647012, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+808124(0.91)	NO	NO	808124,145505, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+629278(1.0)	NO	NO	629278,379345, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),11-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+354399(0.60)	NO	NO	354399,100993, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+376118(1.0)	NO	NO	376118,355214, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),30-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+911420(0.60)	NO	NO	911420,873674, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+541344(1.0)	NO	NO	541344,915714, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),23-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+258229(1.0)	NO	NO	258229,148901, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),15-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+188805(1.0)	NO	NO	188805,505986, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),20-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+522184(0.60)	NO	NO	522184,772927, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+841284(0.73)	NO	NO	841284,495540, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+833135(0.73)	NO	NO	833135,926137, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),24-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+489106(1.0)	NO	NO	489106,630299, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+22129(0.60)	NO	NO	22129,766006, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+312516(1.0)	NO	NO	312516,627304, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+357309(1.0)	NO	NO	357309,991792, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),17-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G990
+901843(1.0)	NO	NO	901843,814180, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+431845(1.0)	NO	NO	431845,689567, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+179331(1.0)	NO	NO	179331,179365, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),1-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+788427(0.73)	NO	NO	788427,422175, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+140377(1.0)	NO	NO	140377,713458, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+685514(1.0)	NO	NO	685514,385588, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+784615(1.0)	NO	NO	784615,314456, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),18-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+20762(0.73)	NO	NO	20762,149803, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),16-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+366674(1.0)	NO	NO	366674,613954, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),12-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+554753(1.0)	NO	NO	554753,963053, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),26-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+976372(1.0)	NO	NO	976372,232849, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),13-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+194752(1.0)	NO	NO	194752,337489, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+475213(1.0)	NO	NO	475213,264706, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),21-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+393699(1.0)	NO	NO	393699,760479, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),29-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G342
+602850(1.0)	NO	NO	602850,682717, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+344671(0.89)	NO	NO	344671,277012, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),6-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+404418(1.0)	NO	NO	404418,636720, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),8-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+933713(0.60)	NO	NO	933713,985263, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jul-10, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+723707(1.0)	NO	NO	723707,773131, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),10-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+587001(1.0)	NO	NO	587001,451556, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-Jun-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+611762(1.0)	NO	NO	611762,484415, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),2-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,G531
+680093(0.73)	NO	NO	680093,782145, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),7-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+480177(0.60)	NO	NO	480177,281544, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),14-May-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),0,0
+410463(1.0)	NO	NO	410463,467705, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),22-Apr-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G532,
+792711(1.0)	NO	NO	792711,66219, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),2-Jul-13, (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked), (masked),G425,
+*Tie data
+v1	v2
+953713(1.0)	924185(1.0)
+924185(1.0)	953713(1.0)
+953713(1.0)	475213(1.0)
+475213(1.0)	953713(1.0)
+467837(1.0)	436973(1.0)
+436973(1.0)	467837(1.0)
+467837(1.0)	667092(1.0)
+667092(1.0)	467837(1.0)
+467837(1.0)	193420(1.0)
+193420(1.0)	467837(1.0)
+467837(1.0)	373280(1.0)
+373280(1.0)	467837(1.0)
+467837(1.0)	913269(1.0)
+913269(1.0)	467837(1.0)
+467837(1.0)	194752(1.0)
+194752(1.0)	467837(1.0)
+467837(1.0)	521145(1.0)
+521145(1.0)	467837(1.0)
+504336(0.60)	443000(1.0)
+443000(1.0)	504336(0.60)
+137414(0.73)	635890(1.0)
+635890(1.0)	137414(0.73)
+137414(0.73)	151882(1.0)
+151882(1.0)	137414(0.73)
+968463(1.0)	579343(0.60)
+579343(0.60)	968463(1.0)
+373280(1.0)	436973(1.0)
+436973(1.0)	373280(1.0)
+373280(1.0)	57501(1.0)
+57501(1.0)	373280(1.0)
+373280(1.0)	667092(1.0)
+667092(1.0)	373280(1.0)
+373280(1.0)	193420(1.0)
+193420(1.0)	373280(1.0)
+373280(1.0)	913269(1.0)
+913269(1.0)	373280(1.0)
+373280(1.0)	194752(1.0)
+194752(1.0)	373280(1.0)
+373280(1.0)	521145(1.0)
+521145(1.0)	373280(1.0)
+795801(1.0)	751780(0.60)
+751780(0.60)	795801(1.0)
+875828(0.60)	601380(1.0)
+601380(1.0)	875828(0.60)
+709538(0.60)	280559(1.0)
+280559(1.0)	709538(0.60)
+912658(1.0)	756021(1.0)
+756021(1.0)	912658(1.0)
+912658(1.0)	685514(1.0)
+685514(1.0)	912658(1.0)
+912658(1.0)	36260(1.0)
+36260(1.0)	912658(1.0)
+912658(1.0)	366674(1.0)
+366674(1.0)	912658(1.0)
+505776(1.0)	792711(1.0)
+792711(1.0)	505776(1.0)
+513017(1.0)	265402(1.0)
+265402(1.0)	513017(1.0)
+927045(1.0)	89467(1.0)
+89467(1.0)	927045(1.0)
+927045(1.0)	518212(1.0)
+518212(1.0)	927045(1.0)
+927045(1.0)	602850(1.0)
+602850(1.0)	927045(1.0)
+927045(1.0)	179331(1.0)
+179331(1.0)	927045(1.0)
+927045(1.0)	611770(1.0)
+611770(1.0)	927045(1.0)
+927045(1.0)	349933(1.0)
+349933(1.0)	927045(1.0)
+927045(1.0)	436973(1.0)
+436973(1.0)	927045(1.0)
+927045(1.0)	667092(1.0)
+667092(1.0)	927045(1.0)
+927045(1.0)	635272(0.91)
+635272(0.91)	927045(1.0)
+927045(1.0)	489106(1.0)
+489106(1.0)	927045(1.0)
+927045(1.0)	541999(1.0)
+541999(1.0)	927045(1.0)
+927045(1.0)	32921(1.0)
+32921(1.0)	927045(1.0)
+927045(1.0)	204462(1.0)
+204462(1.0)	927045(1.0)
+927045(1.0)	357309(1.0)
+357309(1.0)	927045(1.0)
+927045(1.0)	430712(1.0)
+430712(1.0)	927045(1.0)
+927045(1.0)	808124(0.91)
+808124(0.91)	927045(1.0)
+927045(1.0)	490759(1.0)
+490759(1.0)	927045(1.0)
+927045(1.0)	913269(1.0)
+913269(1.0)	927045(1.0)
+784527(1.0)	953731(0.60)
+953731(0.60)	784527(1.0)
+193420(1.0)	436973(1.0)
+436973(1.0)	193420(1.0)
+193420(1.0)	667092(1.0)
+667092(1.0)	193420(1.0)
+193420(1.0)	913269(1.0)
+913269(1.0)	193420(1.0)
+193420(1.0)	194752(1.0)
+194752(1.0)	193420(1.0)
+193420(1.0)	521145(1.0)
+521145(1.0)	193420(1.0)
+397735(1.0)	469477(1.0)
+469477(1.0)	397735(1.0)
+397735(1.0)	344671(0.89)
+344671(0.89)	397735(1.0)
+397735(1.0)	333350(1.0)
+333350(1.0)	397735(1.0)
+547491(1.0)	723707(1.0)
+723707(1.0)	547491(1.0)
+216816(0.60)	620742(1.0)
+620742(1.0)	216816(0.60)
+408605(1.0)	647792(1.0)
+647792(1.0)	408605(1.0)
+408605(1.0)	322529(1.0)
+322529(1.0)	408605(1.0)
+408605(1.0)	730785(1.0)
+730785(1.0)	408605(1.0)
+408605(1.0)	784615(1.0)
+784615(1.0)	408605(1.0)
+408605(1.0)	378733(1.0)
+378733(1.0)	408605(1.0)
+488106(0.73)	635890(1.0)
+635890(1.0)	488106(0.73)
+488106(0.73)	151882(1.0)
+151882(1.0)	488106(0.73)
+756021(1.0)	366674(1.0)
+366674(1.0)	756021(1.0)
+392536(0.60)	601380(1.0)
+601380(1.0)	392536(0.60)
+376601(1.0)	172564(1.0)
+172564(1.0)	376601(1.0)
+376601(1.0)	179331(1.0)
+179331(1.0)	376601(1.0)
+376601(1.0)	767262(1.0)
+767262(1.0)	376601(1.0)
+22666(1.0)	602850(1.0)
+602850(1.0)	22666(1.0)
+22666(1.0)	618289(1.0)
+618289(1.0)	22666(1.0)
+631282(1.0)	436973(1.0)
+436973(1.0)	631282(1.0)
+631282(1.0)	498312(1.0)
+498312(1.0)	631282(1.0)
+631282(1.0)	376118(1.0)
+376118(1.0)	631282(1.0)
+631282(1.0)	204462(1.0)
+204462(1.0)	631282(1.0)
+631282(1.0)	349933(1.0)
+349933(1.0)	631282(1.0)
+631282(1.0)	187553(1.0)
+187553(1.0)	631282(1.0)
+631282(1.0)	32921(1.0)
+32921(1.0)	631282(1.0)
+631282(1.0)	358342(1.0)
+358342(1.0)	631282(1.0)
+631282(1.0)	911887(1.0)
+911887(1.0)	631282(1.0)
+631282(1.0)	490759(1.0)
+490759(1.0)	631282(1.0)
+631282(1.0)	357309(1.0)
+357309(1.0)	631282(1.0)
+631282(1.0)	410463(1.0)
+410463(1.0)	631282(1.0)
+631282(1.0)	151553(1.0)
+151553(1.0)	631282(1.0)
+485825(1.0)	788462(1.0)
+788462(1.0)	485825(1.0)
+485825(1.0)	293981(1.0)
+293981(1.0)	485825(1.0)
+279335(1.0)	601380(1.0)
+601380(1.0)	279335(1.0)
+279335(1.0)	710925(1.0)
+710925(1.0)	279335(1.0)
+279335(1.0)	480770(1.0)
+480770(1.0)	279335(1.0)
+632004(1.0)	430712(1.0)
+430712(1.0)	632004(1.0)
+204462(1.0)	89467(1.0)
+89467(1.0)	204462(1.0)
+204462(1.0)	602850(1.0)
+602850(1.0)	204462(1.0)
+204462(1.0)	179331(1.0)
+179331(1.0)	204462(1.0)
+204462(1.0)	376118(1.0)
+376118(1.0)	204462(1.0)
+204462(1.0)	611770(1.0)
+611770(1.0)	204462(1.0)
+204462(1.0)	436973(1.0)
+436973(1.0)	204462(1.0)
+204462(1.0)	667092(1.0)
+667092(1.0)	204462(1.0)
+204462(1.0)	498312(1.0)
+498312(1.0)	204462(1.0)
+204462(1.0)	349933(1.0)
+349933(1.0)	204462(1.0)
+204462(1.0)	489106(1.0)
+489106(1.0)	204462(1.0)
+204462(1.0)	541999(1.0)
+541999(1.0)	204462(1.0)
+204462(1.0)	490759(1.0)
+490759(1.0)	204462(1.0)
+204462(1.0)	357309(1.0)
+357309(1.0)	204462(1.0)
+204462(1.0)	32921(1.0)
+32921(1.0)	204462(1.0)
+124374(1.0)	323176(0.60)
+323176(0.60)	124374(1.0)
+124374(1.0)	504069(1.0)
+504069(1.0)	124374(1.0)
+730785(1.0)	140377(1.0)
+140377(1.0)	730785(1.0)
+730785(1.0)	500863(1.0)
+500863(1.0)	730785(1.0)
+730785(1.0)	404418(1.0)
+404418(1.0)	730785(1.0)
+730785(1.0)	378733(1.0)
+378733(1.0)	730785(1.0)
+730785(1.0)	322529(1.0)
+322529(1.0)	730785(1.0)
+730785(1.0)	479700(1.0)
+479700(1.0)	730785(1.0)
+730785(1.0)	774312(1.0)
+774312(1.0)	730785(1.0)
+730785(1.0)	747155(1.0)
+747155(1.0)	730785(1.0)
+730785(1.0)	598950(1.0)
+598950(1.0)	730785(1.0)
+720631(1.0)	496595(1.0)
+496595(1.0)	720631(1.0)
+515998(1.0)	56189(0.60)
+56189(0.60)	515998(1.0)
+762060(1.0)	349933(1.0)
+349933(1.0)	762060(1.0)
+762060(1.0)	852186(1.0)
+852186(1.0)	762060(1.0)
+762060(1.0)	490759(1.0)
+490759(1.0)	762060(1.0)
+747155(1.0)	378733(1.0)
+378733(1.0)	747155(1.0)
+747155(1.0)	500863(1.0)
+500863(1.0)	747155(1.0)
+747155(1.0)	479700(1.0)
+479700(1.0)	747155(1.0)
+747155(1.0)	774312(1.0)
+774312(1.0)	747155(1.0)
+161547(1.0)	667092(1.0)
+667092(1.0)	161547(1.0)
+689352(1.0)	703927(0.73)
+703927(0.73)	689352(1.0)
+689352(1.0)	652354(1.0)
+652354(1.0)	689352(1.0)
+689352(1.0)	833135(0.73)
+833135(0.73)	689352(1.0)
+803869(1.0)	708487(1.0)
+708487(1.0)	803869(1.0)
+803869(1.0)	757796(1.0)
+757796(1.0)	803869(1.0)
+803869(1.0)	875203(1.0)
+875203(1.0)	803869(1.0)
+803869(1.0)	685514(1.0)
+685514(1.0)	803869(1.0)
+469477(1.0)	333350(1.0)
+333350(1.0)	469477(1.0)
+469477(1.0)	344671(0.89)
+344671(0.89)	469477(1.0)
+831945(1.0)	431845(1.0)
+431845(1.0)	831945(1.0)
+831945(1.0)	498312(1.0)
+498312(1.0)	831945(1.0)
+831945(1.0)	20762(0.73)
+20762(0.73)	831945(1.0)
+831945(1.0)	911887(1.0)
+911887(1.0)	831945(1.0)
+358342(1.0)	376118(1.0)
+376118(1.0)	358342(1.0)
+358342(1.0)	187553(1.0)
+187553(1.0)	358342(1.0)
+358342(1.0)	911887(1.0)
+911887(1.0)	358342(1.0)
+358342(1.0)	32921(1.0)
+32921(1.0)	358342(1.0)
+358342(1.0)	410463(1.0)
+410463(1.0)	358342(1.0)
+768501(1.0)	488139(0.60)
+488139(0.60)	768501(1.0)
+356452(0.73)	635890(1.0)
+635890(1.0)	356452(0.73)
+356452(0.73)	151882(1.0)
+151882(1.0)	356452(0.73)
+317238(1.0)	498312(1.0)
+498312(1.0)	317238(1.0)
+622366(1.0)	393699(1.0)
+393699(1.0)	622366(1.0)
+622366(1.0)	708487(1.0)
+708487(1.0)	622366(1.0)
+622366(1.0)	875203(1.0)
+875203(1.0)	622366(1.0)
+952820(1.0)	341412(1.0)
+341412(1.0)	952820(1.0)
+743777(1.0)	667092(1.0)
+667092(1.0)	743777(1.0)
+479700(1.0)	378733(1.0)
+378733(1.0)	479700(1.0)
+479700(1.0)	774312(1.0)
+774312(1.0)	479700(1.0)
+479700(1.0)	500863(1.0)
+500863(1.0)	479700(1.0)
+532196(0.73)	635890(1.0)
+635890(1.0)	532196(0.73)
+532196(0.73)	151882(1.0)
+151882(1.0)	532196(0.73)
+73244(1.0)	322529(1.0)
+322529(1.0)	73244(1.0)
+73244(1.0)	611762(1.0)
+611762(1.0)	73244(1.0)
+215454(1.0)	710925(1.0)
+710925(1.0)	215454(1.0)
+337125(1.0)	911887(1.0)
+911887(1.0)	337125(1.0)
+337125(1.0)	852186(1.0)
+852186(1.0)	337125(1.0)
+647792(1.0)	784615(1.0)
+784615(1.0)	647792(1.0)
+691531(1.0)	92308(0.60)
+92308(0.60)	691531(1.0)
+338295(1.0)	179331(1.0)
+179331(1.0)	338295(1.0)
+521145(1.0)	436973(1.0)
+436973(1.0)	521145(1.0)
+521145(1.0)	667092(1.0)
+667092(1.0)	521145(1.0)
+521145(1.0)	913269(1.0)
+913269(1.0)	521145(1.0)
+521145(1.0)	194752(1.0)
+194752(1.0)	521145(1.0)
+233191(1.0)	60736(1.0)
+60736(1.0)	233191(1.0)
+429702(1.0)	283373(1.0)
+283373(1.0)	429702(1.0)
+429702(1.0)	21452(1.0)
+21452(1.0)	429702(1.0)
+429702(1.0)	901843(1.0)
+901843(1.0)	429702(1.0)
+429702(1.0)	913269(1.0)
+913269(1.0)	429702(1.0)
+451837(0.60)	469085(1.0)
+469085(1.0)	451837(0.60)
+673003(1.0)	978030(1.0)
+978030(1.0)	673003(1.0)
+172564(1.0)	767262(1.0)
+767262(1.0)	172564(1.0)
+436973(1.0)	518212(1.0)
+518212(1.0)	436973(1.0)
+436973(1.0)	498312(1.0)
+498312(1.0)	436973(1.0)
+436973(1.0)	376118(1.0)
+376118(1.0)	436973(1.0)
+436973(1.0)	194752(1.0)
+194752(1.0)	436973(1.0)
+436973(1.0)	667092(1.0)
+667092(1.0)	436973(1.0)
+436973(1.0)	349933(1.0)
+349933(1.0)	436973(1.0)
+436973(1.0)	490759(1.0)
+490759(1.0)	436973(1.0)
+436973(1.0)	357309(1.0)
+357309(1.0)	436973(1.0)
+436973(1.0)	808124(0.91)
+808124(0.91)	436973(1.0)
+436973(1.0)	913269(1.0)
+913269(1.0)	436973(1.0)
+498312(1.0)	431845(1.0)
+431845(1.0)	498312(1.0)
+498312(1.0)	376118(1.0)
+376118(1.0)	498312(1.0)
+498312(1.0)	349933(1.0)
+349933(1.0)	498312(1.0)
+498312(1.0)	490759(1.0)
+490759(1.0)	498312(1.0)
+498312(1.0)	357309(1.0)
+357309(1.0)	498312(1.0)
+708487(1.0)	757796(1.0)
+757796(1.0)	708487(1.0)
+708487(1.0)	984711(0.60)
+984711(0.60)	708487(1.0)
+708487(1.0)	875203(1.0)
+875203(1.0)	708487(1.0)
+708487(1.0)	685514(1.0)
+685514(1.0)	708487(1.0)
+767262(1.0)	848030(1.0)
+848030(1.0)	767262(1.0)
+767262(1.0)	952933(1.0)
+952933(1.0)	767262(1.0)
+767262(1.0)	484064(1.0)
+484064(1.0)	767262(1.0)
+349933(1.0)	89467(1.0)
+89467(1.0)	349933(1.0)
+349933(1.0)	179331(1.0)
+179331(1.0)	349933(1.0)
+349933(1.0)	376118(1.0)
+376118(1.0)	349933(1.0)
+349933(1.0)	611770(1.0)
+611770(1.0)	349933(1.0)
+349933(1.0)	667092(1.0)
+667092(1.0)	349933(1.0)
+349933(1.0)	602850(1.0)
+602850(1.0)	349933(1.0)
+349933(1.0)	541999(1.0)
+541999(1.0)	349933(1.0)
+349933(1.0)	635272(0.91)
+635272(0.91)	349933(1.0)
+349933(1.0)	490759(1.0)
+490759(1.0)	349933(1.0)
+349933(1.0)	357309(1.0)
+357309(1.0)	349933(1.0)
+349933(1.0)	32921(1.0)
+32921(1.0)	349933(1.0)
+349933(1.0)	489106(1.0)
+489106(1.0)	349933(1.0)
+349933(1.0)	852186(1.0)
+852186(1.0)	349933(1.0)
+952933(1.0)	848030(1.0)
+848030(1.0)	952933(1.0)
+952933(1.0)	435135(1.0)
+435135(1.0)	952933(1.0)
+952933(1.0)	48550(1.0)
+48550(1.0)	952933(1.0)
+283373(1.0)	923869(1.0)
+923869(1.0)	283373(1.0)
+283373(1.0)	434964(1.0)
+434964(1.0)	283373(1.0)
+283373(1.0)	901843(1.0)
+901843(1.0)	283373(1.0)
+283373(1.0)	913269(1.0)
+913269(1.0)	283373(1.0)
+283373(1.0)	618289(1.0)
+618289(1.0)	283373(1.0)
+283373(1.0)	21452(1.0)
+21452(1.0)	283373(1.0)
+962951(1.0)	587001(1.0)
+587001(1.0)	962951(1.0)
+962951(1.0)	308650(1.0)
+308650(1.0)	962951(1.0)
+378733(1.0)	500863(1.0)
+500863(1.0)	378733(1.0)
+378733(1.0)	322529(1.0)
+322529(1.0)	378733(1.0)
+378733(1.0)	774312(1.0)
+774312(1.0)	378733(1.0)
+703927(0.73)	652354(1.0)
+652354(1.0)	703927(0.73)
+774312(1.0)	500863(1.0)
+500863(1.0)	774312(1.0)
+360534(0.73)	92000(1.0)
+92000(1.0)	360534(0.73)
+360534(0.73)	471927(1.0)
+471927(1.0)	360534(0.73)
+913269(1.0)	518212(1.0)
+518212(1.0)	913269(1.0)
+913269(1.0)	667092(1.0)
+667092(1.0)	913269(1.0)
+913269(1.0)	194752(1.0)
+194752(1.0)	913269(1.0)
+913269(1.0)	901843(1.0)
+901843(1.0)	913269(1.0)
+913269(1.0)	808124(0.91)
+808124(0.91)	913269(1.0)
+913269(1.0)	490759(1.0)
+490759(1.0)	913269(1.0)
+913269(1.0)	21452(1.0)
+21452(1.0)	913269(1.0)
+490759(1.0)	518212(1.0)
+518212(1.0)	490759(1.0)
+490759(1.0)	376118(1.0)
+376118(1.0)	490759(1.0)
+490759(1.0)	357309(1.0)
+357309(1.0)	490759(1.0)
+490759(1.0)	808124(0.91)
+808124(0.91)	490759(1.0)
+490759(1.0)	852186(1.0)
+852186(1.0)	490759(1.0)
+151882(1.0)	635890(1.0)
+635890(1.0)	151882(1.0)
+151882(1.0)	535300(0.73)
+535300(0.73)	151882(1.0)
+151882(1.0)	788427(0.73)
+788427(0.73)	151882(1.0)
+151882(1.0)	160101(0.73)
+160101(0.73)	151882(1.0)
+151882(1.0)	680093(0.73)
+680093(0.73)	151882(1.0)
+151882(1.0)	675960(0.73)
+675960(0.73)	151882(1.0)
+151882(1.0)	792602(0.73)
+792602(0.73)	151882(1.0)
+151882(1.0)	841284(0.73)
+841284(0.73)	151882(1.0)
+151882(1.0)	265677(0.73)
+265677(0.73)	151882(1.0)
+151882(1.0)	598950(1.0)
+598950(1.0)	151882(1.0)
+151882(1.0)	23081(1.0)
+23081(1.0)	151882(1.0)
+151882(1.0)	852186(1.0)
+852186(1.0)	151882(1.0)
+36260(1.0)	435135(1.0)
+435135(1.0)	36260(1.0)
+36260(1.0)	312516(1.0)
+312516(1.0)	36260(1.0)
+17560(1.0)	354399(0.60)
+354399(0.60)	17560(1.0)
+601380(1.0)	587001(1.0)
+587001(1.0)	601380(1.0)
+601380(1.0)	522184(0.60)
+522184(0.60)	601380(1.0)
+601380(1.0)	480770(1.0)
+480770(1.0)	601380(1.0)
+792602(0.73)	635890(1.0)
+635890(1.0)	792602(0.73)
+48550(1.0)	435135(1.0)
+435135(1.0)	48550(1.0)
+911887(1.0)	431845(1.0)
+431845(1.0)	911887(1.0)
+911887(1.0)	376118(1.0)
+376118(1.0)	911887(1.0)
+911887(1.0)	187553(1.0)
+187553(1.0)	911887(1.0)
+911887(1.0)	32921(1.0)
+32921(1.0)	911887(1.0)
+911887(1.0)	410463(1.0)
+410463(1.0)	911887(1.0)
+911887(1.0)	852186(1.0)
+852186(1.0)	911887(1.0)
+518212(1.0)	808124(0.91)
+808124(0.91)	518212(1.0)
+667092(1.0)	89467(1.0)
+89467(1.0)	667092(1.0)
+667092(1.0)	602850(1.0)
+602850(1.0)	667092(1.0)
+667092(1.0)	179331(1.0)
+179331(1.0)	667092(1.0)
+667092(1.0)	32921(1.0)
+32921(1.0)	667092(1.0)
+667092(1.0)	489106(1.0)
+489106(1.0)	667092(1.0)
+667092(1.0)	611770(1.0)
+611770(1.0)	667092(1.0)
+667092(1.0)	635272(0.91)
+635272(0.91)	667092(1.0)
+667092(1.0)	541999(1.0)
+541999(1.0)	667092(1.0)
+667092(1.0)	194752(1.0)
+194752(1.0)	667092(1.0)
+667092(1.0)	357309(1.0)
+357309(1.0)	667092(1.0)
+221426(1.0)	770347(1.0)
+770347(1.0)	221426(1.0)
+269119(0.60)	443000(1.0)
+443000(1.0)	269119(0.60)
+265677(0.73)	635890(1.0)
+635890(1.0)	265677(0.73)
+480770(1.0)	685514(1.0)
+685514(1.0)	480770(1.0)
+852186(1.0)	635890(1.0)
+635890(1.0)	852186(1.0)
+852186(1.0)	258194(1.0)
+258194(1.0)	852186(1.0)
+852186(1.0)	258229(1.0)
+258229(1.0)	852186(1.0)
+477536(1.0)	629278(1.0)
+629278(1.0)	477536(1.0)
+435135(1.0)	312516(1.0)
+312516(1.0)	435135(1.0)
+187553(1.0)	376118(1.0)
+376118(1.0)	187553(1.0)
+187553(1.0)	32921(1.0)
+32921(1.0)	187553(1.0)
+187553(1.0)	410463(1.0)
+410463(1.0)	187553(1.0)
+652354(1.0)	833135(0.73)
+833135(0.73)	652354(1.0)
+23081(1.0)	635890(1.0)
+635890(1.0)	23081(1.0)
+675960(0.73)	635890(1.0)
+635890(1.0)	675960(0.73)
+21452(1.0)	901843(1.0)
+901843(1.0)	21452(1.0)
+283314(1.0)	933713(0.60)
+933713(0.60)	283314(1.0)
+258194(1.0)	258229(1.0)
+258229(1.0)	258194(1.0)
+551791(0.60)	161682(1.0)
+161682(1.0)	551791(0.60)
+635890(1.0)	535300(0.73)
+535300(0.73)	635890(1.0)
+635890(1.0)	788427(0.73)
+788427(0.73)	635890(1.0)
+635890(1.0)	160101(0.73)
+160101(0.73)	635890(1.0)
+635890(1.0)	680093(0.73)
+680093(0.73)	635890(1.0)
+635890(1.0)	841284(0.73)
+841284(0.73)	635890(1.0)
+635890(1.0)	598950(1.0)
+598950(1.0)	635890(1.0)
+611770(1.0)	89467(1.0)
+89467(1.0)	611770(1.0)
+611770(1.0)	602850(1.0)
+602850(1.0)	611770(1.0)
+611770(1.0)	179331(1.0)
+179331(1.0)	611770(1.0)
+611770(1.0)	32921(1.0)
+32921(1.0)	611770(1.0)
+611770(1.0)	635272(0.91)
+635272(0.91)	611770(1.0)
+611770(1.0)	541999(1.0)
+541999(1.0)	611770(1.0)
+611770(1.0)	489106(1.0)
+489106(1.0)	611770(1.0)
+611770(1.0)	357309(1.0)
+357309(1.0)	611770(1.0)
+923869(1.0)	901843(1.0)
+901843(1.0)	923869(1.0)
+923869(1.0)	618289(1.0)
+618289(1.0)	923869(1.0)
+308650(1.0)	587001(1.0)
+587001(1.0)	308650(1.0)
+329743(0.60)	40682(1.0)
+40682(1.0)	329743(0.60)
+32921(1.0)	89467(1.0)
+89467(1.0)	32921(1.0)
+32921(1.0)	602850(1.0)
+602850(1.0)	32921(1.0)
+32921(1.0)	179331(1.0)
+179331(1.0)	32921(1.0)
+32921(1.0)	376118(1.0)
+376118(1.0)	32921(1.0)
+32921(1.0)	541999(1.0)
+541999(1.0)	32921(1.0)
+32921(1.0)	489106(1.0)
+489106(1.0)	32921(1.0)
+32921(1.0)	357309(1.0)
+357309(1.0)	32921(1.0)
+32921(1.0)	410463(1.0)
+410463(1.0)	32921(1.0)
+32921(1.0)	635272(0.91)
+635272(0.91)	32921(1.0)
+92000(1.0)	471927(1.0)
+471927(1.0)	92000(1.0)
+710925(1.0)	541344(1.0)
+541344(1.0)	710925(1.0)
+635272(0.91)	89467(1.0)
+89467(1.0)	635272(0.91)
+635272(0.91)	602850(1.0)
+602850(1.0)	635272(0.91)
+635272(0.91)	179331(1.0)
+179331(1.0)	635272(0.91)
+635272(0.91)	489106(1.0)
+489106(1.0)	635272(0.91)
+635272(0.91)	541999(1.0)
+541999(1.0)	635272(0.91)
+635272(0.91)	357309(1.0)
+357309(1.0)	635272(0.91)
+598950(1.0)	140377(1.0)
+140377(1.0)	598950(1.0)
+598950(1.0)	404418(1.0)
+404418(1.0)	598950(1.0)
+770347(1.0)	188805(1.0)
+188805(1.0)	770347(1.0)
+770347(1.0)	471927(1.0)
+471927(1.0)	770347(1.0)
+770347(1.0)	554753(1.0)
+554753(1.0)	770347(1.0)
+40682(1.0)	480177(0.60)
+480177(0.60)	40682(1.0)
+618289(1.0)	901843(1.0)
+901843(1.0)	618289(1.0)
+89467(1.0)	602850(1.0)
+602850(1.0)	89467(1.0)
+89467(1.0)	179331(1.0)
+179331(1.0)	89467(1.0)
+89467(1.0)	489106(1.0)
+489106(1.0)	89467(1.0)
+89467(1.0)	541999(1.0)
+541999(1.0)	89467(1.0)
+89467(1.0)	357309(1.0)
+357309(1.0)	89467(1.0)
+333350(1.0)	344671(0.89)
+344671(0.89)	333350(1.0)
+875203(1.0)	393699(1.0)
+393699(1.0)	875203(1.0)
+875203(1.0)	757796(1.0)
+757796(1.0)	875203(1.0)
+875203(1.0)	685514(1.0)
+685514(1.0)	875203(1.0)
+471927(1.0)	188805(1.0)
+188805(1.0)	471927(1.0)
+471927(1.0)	554753(1.0)
+554753(1.0)	471927(1.0)
+757796(1.0)	685514(1.0)
+685514(1.0)	757796(1.0)
+541999(1.0)	602850(1.0)
+602850(1.0)	541999(1.0)
+541999(1.0)	179331(1.0)
+179331(1.0)	541999(1.0)
+541999(1.0)	489106(1.0)
+489106(1.0)	541999(1.0)
+541999(1.0)	357309(1.0)
+357309(1.0)	541999(1.0)
+622156(1.0)	901843(1.0)
+901843(1.0)	622156(1.0)
+443000(1.0)	911420(0.60)
+911420(0.60)	443000(1.0)
+376118(1.0)	357309(1.0)
+357309(1.0)	376118(1.0)
+376118(1.0)	410463(1.0)
+410463(1.0)	376118(1.0)
+541344(1.0)	611762(1.0)
+611762(1.0)	541344(1.0)
+188805(1.0)	554753(1.0)
+554753(1.0)	188805(1.0)
+489106(1.0)	602850(1.0)
+602850(1.0)	489106(1.0)
+489106(1.0)	179331(1.0)
+179331(1.0)	489106(1.0)
+489106(1.0)	357309(1.0)
+357309(1.0)	489106(1.0)
+22129(0.60)	976372(1.0)
+976372(1.0)	22129(0.60)
+357309(1.0)	179331(1.0)
+179331(1.0)	357309(1.0)
+357309(1.0)	602850(1.0)
+602850(1.0)	357309(1.0)
+431845(1.0)	20762(0.73)
+20762(0.73)	431845(1.0)
+179331(1.0)	602850(1.0)
+602850(1.0)	179331(1.0)
+140377(1.0)	404418(1.0)
+404418(1.0)	140377(1.0)

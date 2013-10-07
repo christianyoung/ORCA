@@ -1,0 +1,8 @@
+Loadvna C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\jfk;l;alkdsjfkdsa;;lalkdfj\ORG-RES\GANG-G784\CORE-MEM-.vna
+COLORNODESBYATTR CORE
+COLORNODESBYATTR COVERS
+Runlayout
+Runlayout
+Runlayout
+Savejpg C:/Users/x49962/Documents/capstoneGit/ORCA/workingORCA/projects\jfk;l;alkdsjfkdsa;;lalkdfj\ORG-RES\GANG-G784\CORE-MEM-.vna.jpg
+Close
